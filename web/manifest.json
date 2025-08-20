@@ -1,6 +1,6 @@
 {
-    "name": "api_tester",
-    "short_name": "api_tester",
+    "name": "API Test",
+    "short_name": "API Test",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
